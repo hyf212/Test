@@ -311,6 +311,18 @@
             <mxPoint x="720" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="tcK_ELWtTtjv9lwEPs21-83" value="审批配置ID" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="760" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tcK_ELWtTtjv9lwEPs21-84" value="最小金额" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="760" y="190" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tcK_ELWtTtjv9lwEPs21-85" value="最大金额" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="760" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tcK_ELWtTtjv9lwEPs21-86" value="审批步骤数" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="760" y="300" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
